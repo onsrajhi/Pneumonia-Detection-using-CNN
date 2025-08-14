@@ -32,7 +32,7 @@ data/val/
 data/test/
 
 # Model outputs
-models/*.h5
+models/*.keras
 models/*.pb
 models/*.tflite
 
